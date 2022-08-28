@@ -9,10 +9,10 @@
     </parent>
     <groupId>travel.wink</groupId>
     <artifactId>duffel-sdk-java</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
-    <name>Wise Java SDK</name>
-    <description>Java library for Wise API.</description>
+    <name>Duffel Java SDK</name>
+    <description>Java library for Duffel API.</description>
 
     <developers>
         <developer>
