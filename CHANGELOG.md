@@ -2,6 +2,64 @@
 
 Changelog of duffel-java-sdk.
 
+## 0.0.4 (2022-08-28)
+
+
+
+
+
+
+
+### Other changes
+
+**Merge branch 'release/0.0.4'**
+
+
+[2600b](https://github.com/wink-travel/duffel-java-sdk/commit/2600b47938dd447) Bjorn Harvold *2022-08-28 08:27:46*
+
+**Update versions for release**
+
+
+[bdddc](https://github.com/wink-travel/duffel-java-sdk/commit/bdddc0217b06fb9) Bjorn Harvold *2022-08-28 08:27:36*
+
+**:memo: docs: Updated readme**
+
+
+[43796](https://github.com/wink-travel/duffel-java-sdk/commit/437969c5baed61f) Bjorn Harvold *2022-08-28 08:27:07*
+
+**:twisted_rightwards_arrows: doc: merged CHANGELOG.md from master into develop branch**
+
+
+[2738b](https://github.com/wink-travel/duffel-java-sdk/commit/2738b4dfdf3c4cf) Bjorn Harvold *2022-08-28 08:25:03*
+
+**Update for next development version**
+
+
+[7f54f](https://github.com/wink-travel/duffel-java-sdk/commit/7f54f75ef77a5ac) Bjorn Harvold *2022-08-28 08:23:45*
+
+**Merge tag '0.0.3' into develop**
+
+* Tag release 
+
+[3e1f4](https://github.com/wink-travel/duffel-java-sdk/commit/3e1f4d51518445d) Bjorn Harvold *2022-08-28 08:23:44*
+
+
+## v0.0.3 (2022-08-28)
+
+
+
+
+
+
+
+### Other changes
+
+**:memo: doc: Updated CHANGELOG.md...**
+
+
+[4463c](https://github.com/wink-travel/duffel-java-sdk/commit/4463ce31d6e985b) Bjorn Harvold *2022-08-28 08:23:57*
+
+
 ## 0.0.3 (2022-08-28)
 
 
