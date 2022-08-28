@@ -15,7 +15,7 @@ duffel.api.key=YOUR_API_KEY
 
 You can get the duffel.url for free by adding one of our properties files to your property sources and add a Spring active profile to either duffel-sandbox or duffel-production.
 
-If you are using Spring, you can inject the available Spring-managed Wise-beans that are in DuffelSdkConfiguration.
+If you are using Spring, you can inject the available Spring-managed Duffel-beans that are in DuffelSdkConfiguration.
 
 If you are not using Spring, you will have to instantiate the Api classes manually and configure the url and api key manually. See DuffelSdkConfiguration for inspiration on how you can do that.
 

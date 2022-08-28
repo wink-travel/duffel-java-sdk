@@ -45,7 +45,7 @@ class DuffelIntegrationTest {
 //    }
 
     @Test
-    void givenWiseAccount_whenRetrievingExchangeRates_thenVerify() {
+    void givenDuffelAccount_whenRetrievingExchangeRates_thenVerify() {
         try {
             log.info("Testing Duffel Places...");
 
