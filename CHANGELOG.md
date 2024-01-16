@@ -2,13 +2,58 @@
 
 Changelog of duffel-java-sdk.
 
+## 0.0.5 (2024-01-16)
+
+### Other changes
+
+**Merge branch 'release/0.0.5'**
+
+
+[08ff8](https://github.com/wink-travel/duffel-java-sdk/commit/08ff8f36a3eae4a) Bjorn Harvold *2024-01-16 08:01:31*
+
+**Update versions for release**
+
+
+[1b83a](https://github.com/wink-travel/duffel-java-sdk/commit/1b83acea136d872) Bjorn Harvold *2024-01-16 08:01:19*
+
+**:arrow_up: build: updated dependencies and Java to 21**
+
+
+[c64ba](https://github.com/wink-travel/duffel-java-sdk/commit/c64bae4c414d60d) Bjorn Harvold *2024-01-16 08:00:47*
+
+**:arrow_up: build: updated dependencies and Java to 21**
+
+
+[57418](https://github.com/wink-travel/duffel-java-sdk/commit/574184fcb393dda) Bjorn Harvold *2024-01-16 06:49:39*
+
+**:twisted_rightwards_arrows: doc: merged CHANGELOG.md from master into develop branch**
+
+
+[b10f8](https://github.com/wink-travel/duffel-java-sdk/commit/b10f8148e31bef2) Bjorn Harvold *2022-08-28 08:29:01*
+
+**Update for next development version**
+
+
+[5a442](https://github.com/wink-travel/duffel-java-sdk/commit/5a442decdc42def) Bjorn Harvold *2022-08-28 08:27:47*
+
+**Merge tag '0.0.4' into develop**
+
+* Tag release 
+
+[3581a](https://github.com/wink-travel/duffel-java-sdk/commit/3581a0aea06f621) Bjorn Harvold *2022-08-28 08:27:46*
+
+
+## v0.0.4 (2022-08-28)
+
+### Other changes
+
+**:memo: doc: Updated CHANGELOG.md...**
+
+
+[36654](https://github.com/wink-travel/duffel-java-sdk/commit/36654cbf4cc333c) Bjorn Harvold *2022-08-28 08:27:58*
+
+
 ## 0.0.4 (2022-08-28)
-
-
-
-
-
-
 
 ### Other changes
 
@@ -46,12 +91,6 @@ Changelog of duffel-java-sdk.
 
 ## v0.0.3 (2022-08-28)
 
-
-
-
-
-
-
 ### Other changes
 
 **:memo: doc: Updated CHANGELOG.md...**
@@ -61,12 +100,6 @@ Changelog of duffel-java-sdk.
 
 
 ## 0.0.3 (2022-08-28)
-
-
-
-
-
-
 
 ### Other changes
 
@@ -104,12 +137,6 @@ Changelog of duffel-java-sdk.
 
 ## v0.0.2 (2022-08-28)
 
-
-
-
-
-
-
 ### Other changes
 
 **:memo: doc: Updated CHANGELOG.md...**
@@ -119,12 +146,6 @@ Changelog of duffel-java-sdk.
 
 
 ## 0.0.2 (2022-08-28)
-
-
-
-
-
-
 
 ### Other changes
 
@@ -156,12 +177,6 @@ Changelog of duffel-java-sdk.
 
 
 ## v0.0.1 (2022-08-28)
-
-
-
-
-
-
 
 ### Other changes
 
