@@ -46,9 +46,6 @@ git push origin master:refs/heads/master
 echo "Creating GitHub release..."
 gh release create v$newVersion --notes "See CHANGELOG.md for release notes" --target master
 
-echo "Pushing release artifacts to Sonatype..."
-mvn deploy -Psonatype-oss-release
-
 git checkout develop
 
 echo "Merging CHANGELOG.md from master..."
@@ -56,8 +53,5 @@ git merge master --no-edit -m ":twisted_rightwards_arrows: doc: merged CHANGELOG
 
 echo "Pushing develop to origin"
 git push origin develop:refs/heads/develop
-
-echo "Pushing snapshot artifacts to Sonatype..."
-mvn deploy -Psonatype-oss-release
 
 echo "Release SUCCESS"
